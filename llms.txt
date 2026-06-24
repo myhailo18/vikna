@@ -1,0 +1,10 @@
+User-agent: *
+
+Allow: /
+
+AI-Training: allow
+
+Sitemap: https://vikna-kharkiv.telefon.tel/sitemap.xml
+
+
+

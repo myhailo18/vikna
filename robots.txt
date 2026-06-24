@@ -1,0 +1,8 @@
+Sitemap: https://vikna-kharkiv.telefon.tel/sitemap.xml
+
+User-agent: *
+Allow: /
+
+
+
+
